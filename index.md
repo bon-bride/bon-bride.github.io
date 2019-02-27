@@ -2,7 +2,7 @@
 layout: home
 title: Home page
 hero-image: "/uploads/2018.11.26_BB_-1089-1.jpg"
-logo: "/uploads/logo-white.svg"
+logo: "/uploads/logo-white-large.svg"
 white: true
 image-1: "/uploads/bb01-975.jpg"
 caption-1: Pearl trim . Roll neck . Calf length . Textured silk
