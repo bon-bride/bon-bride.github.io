@@ -10,7 +10,7 @@ image-2: "/uploads/bb02-1219.jpg"
 caption-2: Cap sleeve . Round neck . Pockets . Backless
 image-3: "/uploads/bb03-1443.jpg"
 caption-3: Belted with gold d-ring . Button through . Pockets . Cuff detail
-image-4: "/uploads/bb04-2971.jpg"
+image-4: "/uploads/2018.11.26_BB_ 148 1-1.jpg"
 caption-4: Full skirt . Sheer sleeve & waist detail . Pockets
 image-5: "/uploads/bb05-9001.jpg"
 caption-5: Off shoulder . Belted . Puddle train . Low back . Side split . Heavy crepe
@@ -51,6 +51,6 @@ quote: '"Stripped down sophistication that boasts modernity and refinement. Char
 author: Pippa Cooke - Founder
 
 ---
-Our first collection bridges the gap between fashion and bridal. Taking inspiration from social and cultural movements, empowering women and questioning if they want to dress for themselves or conform to the typical bride.  High necklines, extra long sleeves and loose fits, the dresses offer a relaxed tailoring aesthetic.
+Our first collection bridges the gap between fashion and bridal. Taking inspiration from social and cultural movements, empowering women and questioning if they want to dress for themselves or conform to the typical bride.  High necklines, extra long sleeves and loose fits, the dresses possess a relaxed tailoring aesthetic.
 
 Each dress is made to order in London.
