@@ -10,8 +10,8 @@ images:
 - "/uploads/Emma_Chris-2017-422.jpg"
 - "/uploads/Emma_Chris-2017-256-1.jpg"
 - "/uploads/Emma_Chris-2017-149.jpg"
-next-url: ''
-previous-url: ''
+next-url: daisy-and-rob.html
+previous-url: cora-and-rob.html
 featured-image: "/uploads/Emma_Chris-2017-487.jpg"
 date: 2019-02-27 10:35:51 +0000
 layout: post
