@@ -1,0 +1,34 @@
+{% include header.html %}
+{% include logo-left-black.html %}
+
+<div class="grid columns-1 columns-2-l items-center mb4">
+
+	<div class="pa4 pa5-l mb3">
+		<div class="f1 f-subheadline-ns mt6 mb5">
+			{{ page.title}}
+		</div>
+		<div class="measure lh-copy f4 avenir mv3 mv3-ns black no-underline">
+			{{ content }}
+		</div>
+		<a class="measure lh-copy f4 fw5 avenir black no-underline link black no-underline dim" href="#collections">Explore the collection</a>
+	</div>
+
+	<div class="pa4 pa4-l h-100 cover " style="background-image: url({{ site.baseurl }}{{ page.hero-image }})">
+		<div class="grid items-center w-100 h-100">
+			<div class="center tc f3 pv5 pa4-ns lh-copy measure">
+					{{ page.quote }}
+			</div>
+		</div>
+	</div>
+
+</div>
+
+{% include container.html %}
+
+{% include collections.html %}
+
+{% include container-end.html %}
+{% include full-screen-menu.html %}
+
+{% include footer.html %}
+	
