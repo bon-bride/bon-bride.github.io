@@ -56,5 +56,3 @@ fields:
 - type: file
   name: hero-image-2
   label: hero-image-2
-pages:
-- about.md

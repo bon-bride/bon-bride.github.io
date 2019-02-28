@@ -174,5 +174,3 @@ fields:
 - type: text
   name: caption-10
   label: Caption 10
-pages:
-- index.md
