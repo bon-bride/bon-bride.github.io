@@ -49,7 +49,6 @@ fields:
 - type: textarea
   name: quote-3
   label: quote-3
-- type: textarea
 - type: text
   name: author-3
   label: author-3
