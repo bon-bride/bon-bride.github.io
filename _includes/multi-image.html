@@ -1,7 +1,7 @@
 <div id="images" class="grid columns-2 ga5 items-center">
 
 {% for image in page.gallery %}
-	<img src="{{ base }}{{ image }}">
+	<a href="{{ base }}{{ image }}" class="lightbox-image""><img src="{{ base }}{{ image }}"></a>
 {% endfor %}
 
 </div>
