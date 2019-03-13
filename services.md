@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: services
-hero-image: "/uploads/bb09-1449-1.jpg"
+hero-image: "/uploads/bb07-3541.jpg"
 details: ''
 image-1: ''
 image-2: ''
@@ -49,4 +49,4 @@ Bespoke service available
 
 ### Wear your dress again 
 
-We offer our brides the option of amending their dress so they can re-use and wear time and time again. 
+We offer our brides the option of amending their dress so they can re-use and wear time and time again.
