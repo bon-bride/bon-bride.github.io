@@ -6,17 +6,17 @@ hero-image: ''
 ---
 \###### ENGLAND
 
-\##### BON BRIDÉ 
+BON BRIDÉ
 
-HQ8 Downs Bridge Road\\
+HQ8 Downs Bridge Road
 
-London, \\
+London, 
 
 BR3 5HX
 
 \###### IRELAND
 
-\##### ARCHIVE 1249 
+\##### ARCHIVE 1249
 
 Cregagh Road, \\
 
