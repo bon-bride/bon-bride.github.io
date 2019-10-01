@@ -6,15 +6,12 @@
 
 
 /*
-
    TYPOGRAPHY
    http://tachyons.io/docs/typography/measure/
-
    Media Query Extensions:
      -ns = not-small
      -m  = medium
      -l  = large
-
 */
 
 
@@ -127,3 +124,7 @@
     text-overflow: ellipsis;
   }
 }
+
+p {font-family: 'avenir'}
+
+h1,h2,h3,h4,h5,h6 { font-family: 'acre'; }
