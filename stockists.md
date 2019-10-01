@@ -12,9 +12,8 @@ link-3: ''
 ---
 ### ENGLAND
 
-#### BON BRIDÉ
+#### BON BRIDÉ HQ
 
-HQ  
 8 Downs Bridge Road  
 London,  
 BR3 5HX
