@@ -10,62 +10,54 @@ link-text-3: ''
 link-3: ''
 
 ---
-\###### ENGLAND
+### ENGLAND
 
-BON BRIDÉ
+#### BON BRIDÉ
 
-HQ8 Downs Bridge Road
-
-London, 
-
+HQ8 Downs Bridge Road  
+London,  
 BR3 5HX
 
-\###### IRELAND
+***
 
-\##### ARCHIVE 1249
+### IRELAND
 
-Cregagh Road, \\
+#### ARCHIVE 1249
 
-Belfast,\\
-
-Northern Ireland, \\
-
-BT6 8PX\\
+Cregagh Road,  
+Belfast,  
+Northern Ireland,  
+BT6 8PX
 
 www.archieve12.com
 
-\###### GERMANY
+***
 
-\##### ANWE BRIDAL
+### GERMANY
 
-Laufgraben\\
+#### ANWE BRIDAL
 
-1820146\\
-
-Hamburg\\
-
+Laufgraben  
+1820146  
+Hamburg  
 www.anwe-bridal.com
 
-\##### ALL THE FEELS
+#### ALL THE FEELS
 
-Mühlgasse\\
-
-765183\\
-
-Wiesbaden\\
-
+Mühlgasse  
+765183  
+Wiesbaden  
 www.allthefeels.de
 
-\###### AUSTRALIA
+***
 
-\##### YOUR ART BRIDAL
+### AUSTRALIA
 
-5/308 \\
+#### YOUR ART BRIDAL
 
-Lawrence Hardgrave Drive\\
-
-Thirroul\\
-
+5/308  
+Lawrence Hardgrave Drive  
+Thirroul  
 New South Wales\\
 
 www.yourartbridal.com.au
