@@ -16,6 +16,5 @@ paragraph-3: ''
 quote-3: ''
 author-3: ''
 hero-image-2: ''
-published: false
 
 ---
