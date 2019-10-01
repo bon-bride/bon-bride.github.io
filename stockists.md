@@ -6,7 +6,7 @@ hero-image: ''
 paragraph-2: ''
 quote-2: ''
 author-2: ''
-layout: page
+layout: about
 image-1: ''
 image-2: ''
 image-3: ''
