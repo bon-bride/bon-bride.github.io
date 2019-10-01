@@ -29,7 +29,7 @@ Belfast,
 Northern Ireland,  
 BT6 8PX
 
-www.archieve12.com
+[www.archieve12.com](www.archieve12.com "www.archieve12.com")
 
 ***
 
@@ -39,15 +39,18 @@ www.archieve12.com
 
 Laufgraben  
 1820146  
-Hamburg  
-www.anwe-bridal.com
+Hamburg
+
+[www.anwe-bridal.com]()
 
 #### ALL THE FEELS
 
 Mühlgasse  
 765183  
-Wiesbaden  
-www.allthefeels.de
+Wiesbaden
+
+[  
+www.allthefeels.de]()
 
 ***
 
@@ -58,6 +61,7 @@ www.allthefeels.de
 5/308  
 Lawrence Hardgrave Drive  
 Thirroul  
-New South Wales\\
+New South Wales
 
-www.yourartbridal.com.au
+[  
+www.yourartbridal.com.au]()
