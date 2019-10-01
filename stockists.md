@@ -14,7 +14,8 @@ link-3: ''
 
 #### BON BRIDÉ
 
-HQ8 Downs Bridge Road  
+HQ  
+8 Downs Bridge Road  
 London,  
 BR3 5HX
 
@@ -22,9 +23,9 @@ BR3 5HX
 
 ### IRELAND
 
-#### ARCHIVE 1249
+#### ARCHIVE 12
 
-Cregagh Road,  
+49 Cregagh Road,  
 Belfast,  
 Northern Ireland,  
 BT6 8PX
