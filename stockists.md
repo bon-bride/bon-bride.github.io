@@ -27,8 +27,7 @@ BR3 5HX
 49 Cregagh Road,  
 Belfast,  
 Northern Ireland,  
-BT6 8PX
-
+BT6 8PX  
 [www.archieve12.com](www.archieve12.com "www.archieve12.com")
 
 ***
@@ -39,17 +38,14 @@ BT6 8PX
 
 Laufgraben  
 1820146  
-Hamburg
-
+Hamburg  
 [www.anwe-bridal.com]()
 
 #### ALL THE FEELS
 
 Mühlgasse  
 765183  
-Wiesbaden
-
-[  
+Wiesbaden[  
 www.allthefeels.de]()
 
 ***
@@ -61,7 +57,5 @@ www.allthefeels.de]()
 5/308  
 Lawrence Hardgrave Drive  
 Thirroul  
-New South Wales
-
-[  
+New South Wales[  
 www.yourartbridal.com.au]()
