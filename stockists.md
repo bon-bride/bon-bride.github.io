@@ -22,7 +22,8 @@ BR3 5HX
 
 20 High Street  
 Saffron Walden  
-CB10 1AX
+CB10 1AX  
+[www.thepantrybridalwear.com](http://www.thepantrybridalwear.com/)
 
 ***
 
@@ -44,7 +45,8 @@ www.yourartbridal.com.au]()
 
 Mechelsesteenweg 17  
 2000 Antwerpen  
-Belgium
+Belgium  
+[www.theivoryclub.be](http://www.theivoryclub.be/)
 
 ***
 
@@ -84,6 +86,5 @@ BT6 8PX
 
 Sint Annastraat 282  
 6525 HC Nijmegen  
-Netherlands
-
-***
+Netherlands  
+[www.wildatheartbridal.nl/nl](http://www.wildatheartbridal.nl/nl)
