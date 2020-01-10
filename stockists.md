@@ -12,7 +12,7 @@ link-3: ''
 ---
 ### ENGLAND
 
-#### BON BRIDÉ HQ
+#### Bon Bridé HQ
 
 8 Downs Bridge Road  
 London,  
@@ -28,7 +28,7 @@ CB10 1AX
 
 ### AUSTRALIA
 
-#### YOUR ART BRIDAL
+#### Your Art Bridal
 
 5/308  
 Lawrence Hardgrave Drive  
@@ -50,14 +50,14 @@ Belgium
 
 ### GERMANY
 
-#### ANWE BRIDAL
+#### Anwe Bridal
 
 Laufgraben  
 1820146  
 Hamburg  
 [www.anwe-bridal.com]()
 
-#### ALL THE FEELS
+#### All The Feels
 
 Mühlgasse  
 765183  
@@ -68,7 +68,7 @@ www.allthefeels.de]()
 
 ### IRELAND
 
-#### ARCHIVE 12
+#### Archive 12
 
 49 Cregagh Road,  
 Belfast,  
