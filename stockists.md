@@ -22,8 +22,9 @@ BR3 5HX
 
 20 High Street  
 Saffron Walden  
-CB10 1AX  
-[www.thepantrybridalwear.com](http://www.thepantrybridalwear.com/)
+CB10 1AX
+
+[www.thepantrybridalwear.com](http://www.thepantrybridalwear.com/ "The Pantry Bridalwear")
 
 ***
 
@@ -34,8 +35,9 @@ CB10 1AX
 5/308  
 Lawrence Hardgrave Drive  
 Thirroul  
-New South Wales[  
-www.yourartbridal.com.au]()
+New South Wales
+
+[www.yourartbridal.com.au](https://yourartbridal.com.au/ "Your Art Bridal")
 
 ***
 
@@ -45,26 +47,29 @@ www.yourartbridal.com.au]()
 
 Mechelsesteenweg 17  
 2000 Antwerpen  
-Belgium  
-[www.theivoryclub.be](http://www.theivoryclub.be/)
+Belgium
+
+[www.theivoryclub.be](http://www.theivoryclub.be/ "The Ivory Club")
 
 ***
 
 ### GERMANY
 
-#### Anwe Bridal
+#### ANWE Bridal
 
 Laufgraben  
 1820146  
-Hamburg  
-[www.anwe-bridal.com]()
+Hamburg
+
+[www.anwe-bridal.com]( https://www.anwe-bridal.com/ "ANWE Bridal")
 
 #### All The Feels
 
 Mühlgasse  
 765183  
-Wiesbaden[  
-www.allthefeels.de]()
+Wiesbaden
+
+[www.allthefeels.de](https://allthefeels.de/en/all-the-feels-2/ "All the feels")
 
 ***
 
@@ -75,8 +80,9 @@ www.allthefeels.de]()
 49 Cregagh Road,  
 Belfast,  
 Northern Ireland,  
-BT6 8PX  
-[www.archieve12.com](www.archieve12.com "www.archieve12.com")
+BT6 8PX
+
+[www.archive12.com/](https://www.archive12.com/ "https://www.archive12.com/")
 
 ***
 
@@ -86,5 +92,6 @@ BT6 8PX
 
 Sint Annastraat 282  
 6525 HC Nijmegen  
-Netherlands  
-[www.wildatheartbridal.nl/nl](http://www.wildatheartbridal.nl/nl)
+Netherlands
+
+[www.wildatheartbridal.nl/nl](http://www.wildatheartbridal.nl/nl "Wild at heart")
