@@ -59,5 +59,3 @@ fields:
 - type: text
   name: column-2
   label: column-2
-pages:
-- privacy-policy.md
