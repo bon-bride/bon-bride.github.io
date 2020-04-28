@@ -31,4 +31,5 @@ fields:
   name: hero-image
   label: hero-image
 pages:
+- privacy-policy.md
 - stockists.md
