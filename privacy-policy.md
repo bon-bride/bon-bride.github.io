@@ -1,13 +1,7 @@
 ---
-layout: page
 title: Privacy Policy
+layout: services
 hero-image: ''
-link-text-1: ''
-link-1: ''
-link-text-2: ''
-link-2: ''
-link-text-3: ''
-link-3: ''
 details: ''
 image-1: ''
 image-2: ''
