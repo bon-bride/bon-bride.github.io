@@ -1,1 +1,32 @@
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?tracking=1&always=1&scrolling=1&hideDetailsBtn=1&showPolicyLink=1&privacyPage=https%3A%2F%2Fbonbride.com%2Fprivacy-policy.html"></script>
+ <div class="cookie-banner js-cookie-banner shadow">
+   This website uses cookies. <a class="cookielink" href="https://bonbride.com/privacy-policy.html">Read more</a>
+   <button class="js-cookie-dismiss">X</button>
+</div>
+
+<script type="text/javascript">
+
+    // Key under which name the cookie is saved
+const cookieName = 'cookieconsent';
+// The value could be used to store different levels of consent
+const cookieValue = 'dismissed';
+
+function dismiss() {
+    const date = new Date();
+    // Cookie is valid 1 year: now + (days x hours x minutes x seconds x milliseconds)
+    date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000));
+    // Set cookie
+    document.cookie = `${cookieName}=${cookieValue};expires=${date.toUTCString()};path=/`;
+
+    // You probably want to remove the banner
+    document.querySelector('.js-cookie-banner').remove();
+}
+
+// Get button element
+const buttonElement = document.querySelector('.js-cookie-dismiss');
+// Maybe cookie consent is not present
+if (buttonElement) {
+    // Listen on button click
+    buttonElement.addEventListener('click', dismiss);
+}
+
+</script>
