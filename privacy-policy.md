@@ -8,6 +8,22 @@ link-text-2: ''
 link-2: ''
 link-text-3: ''
 link-3: ''
+details: ''
+image-1: ''
+image-2: ''
+image-3: ''
+image-4: ''
+image-5: ''
+image-6: ''
+image-7: ''
+image-8: ''
+next-url: ''
+previous-url: ''
+date: 
+gallery: []
+image-count: ''
+column-1: ''
+column-2: ''
 
 ---
 **Privacy Policy**
