@@ -1,9 +1,9 @@
 .cookie-banner {
-    background-color: white;
+	background-color: white;
     color: darkgray;
     border-radius: 35px;
     padding: 10px 20px;
-    width: 350px;
+    width: 308px;
     position: fixed;
     bottom: 20px;
     left: 20px;
@@ -11,6 +11,7 @@
     font-family: sans-serif;
     letter-spacing: 1px;
     z-index: 100;
+    font-size: 12px;
 }
 
 .shadow {
