@@ -26,7 +26,7 @@ column-1: ''
 column-2: ''
 
 ---
-**Privacy Policy**
+# **Privacy Policy**
 
 Your privacy is important to us. It is Bon Bridé's policy to respect your privacy regarding any information we may collect from you across our website, [https://bonbride.com/,](https://bonbride.com/, "https://bonbride.com/,") and other sites we own and operate.
 
