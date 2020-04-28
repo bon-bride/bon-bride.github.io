@@ -1,17 +1,19 @@
-<div class="cookie-banner" style="display: none">
-    <p>By using our website, you agree to our <a href=’insert link’>cookie policy</a></p>
-    <button class="close">&times;</button>
+<div id="cookieConsent">
+    <div id="closeCookieConsent">x</div>
+    This website is using cookies. <a href="#" target="_blank">More info</a>. <a class="cookieConsentOK">Ok</a>
 </div>
 
 <script>
 
-    if(localStorage.getItem('cookieSeen') != 'shown'){
-    $(".cookie-banner").delay(2000).fadeIn();
-    localStorage.setItem('cookieSeen','shown')
-}
-
-$('.close').click(function(e) {
-  $('.cookie-banner').fadeOut(); 
-});
+$(document).ready(function(){   
+    setTimeout(function () {
+        $("#cookieConsent").fadeIn(200);
+     }, 4000);
+    $("#closeCookieConsent, .cookieConsentOK").click(function() {
+        $("#cookieConsent").fadeOut(200);
+    }); 
+}); 
 
 </script>
+
+
