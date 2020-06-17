@@ -1,4 +1,22 @@
 ---
 label: Editorial
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: images
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+  label: Images
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
