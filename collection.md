@@ -4,20 +4,20 @@ intro: Test
 hero-image: "/uploads/sand-structure-wood-white-texture-floor-592000-pxhere.com.jpg"
 date: 2019-02-21T11:26:48.000+00:00
 layout: collection
-caption-1: Pearl trim . Roll neck . Calf length . Textured silk
-caption-2: Cap sleeve . Round neck . Pockets . Backless
+caption-1: Pearl trim . Roll neck . Calf length . Textured silk . Optional pearl
+caption-2: Cap sleeve . Round neck . Pockets . Backless . Optional pearl
 caption-3: Belted with gold d-ring . Button through . Pockets . Cuff detail
 caption-4: Full skirt . Sheer sleeve & waist detail . Pockets
 caption-5: Off shoulder . Belted . Puddle train . Low back . Side split . Heavy crepe
 caption-6: Roll neck . 3/4 sleeve . Cut out waist . Backless . Gros grain trim side
-  split
-caption-7: Raw frayed hem and cuff . Stand collar . Cut out waist . Backless
+  split . Optional pearl
+caption-7: Raw frayed hem and cuff . Stand collar . Cut out waist . Backless . Optional pearl
 caption-8: Skinny strap . Bagged out waist . Low v neck line . Split
-caption-9: Low cowl back . Long sleeve . Loose fit . Round neck
+caption-9: Low cowl back . Long sleeve . Loose fit . Round neck . Optional pearl
 caption-10: Round neck . Long slim sleeve . Cut out side . V shaped back . Side split
   with zip
 caption-11: Deep V back . Textured fabric . Frayed edges . Slim slv. Tailored
-caption-12: Halter neck . Pearl trim . Zip at split . Backless
+caption-12: Halter neck . Pearl trim . Zip at split . Backless . Optional pearl
 caption-13: Volume slv . Open back . Button through . V neck
 caption-14: Coat/Dress . Belted . Cuff detail . Raw hem . Pockets
 cat-number-1: bb:01
