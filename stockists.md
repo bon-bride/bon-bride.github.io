@@ -61,7 +61,7 @@ Pl. des Jardins de Baseilles 25
 5101 Namur
 Belgium
 
-[https://www.melodynelson.be/en/](https://www.melodynelson.be/en/ "Meldoy Nelson")
+[www.melodynelson.be](www.melodynelson.be/en/ "Meldoy Nelson")
 
 ***
 
@@ -94,7 +94,7 @@ Neupforte 11
 Germany
 \+49 241 99032187
 
-[www.white-concepts.de](https://white-concepts.de/ "White Concepts")
+[www.white-concepts.de]()
 
 ***
 
