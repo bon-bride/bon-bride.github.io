@@ -26,6 +26,7 @@ CB10 1AX
 
 [www.thepantrybridalwear.com](http://www.thepantrybridalwear.com/ "The Pantry Bridalwear")
 
+
 ***
 
 ### AUSTRALIA
@@ -51,6 +52,16 @@ Belgium
 
 [www.theivoryclub.be](http://www.theivoryclub.be/ "The Ivory Club")
 
+#### MELODY NELSON 
+
+Pl. des Jardins de Baseilles 25
+5101 Namur
+Belgium
+
+[https://www.melodynelson.be/en/](https://www.melodynelson.be/en/ "Meldoy Nelson")
+
+https://www.melodynelson.be/en/
+
 ***
 
 ### GERMANY
@@ -63,6 +74,7 @@ Hamburg
 
 [www.anwe-bridal.com]( https://www.anwe-bridal.com/ "ANWE Bridal")
 
+
 #### All The Feels
 
 Mühlgasse  
@@ -70,6 +82,17 @@ Mühlgasse
 Wiesbaden
 
 [www.allthefeels.de](https://allthefeels.de/en/all-the-feels-2/ "All the feels")
+
+
+#### WHITE CONCEPTS 
+
+Neupforte 11
+52062 Aachen
+Germany
++49 241 99032187
+
+[www.white-concepts.de](https://white-concepts.de/ "White Concepts")
+
 
 ***
 
@@ -82,7 +105,7 @@ Belfast,
 Northern Ireland,  
 BT6 8PX
 
-[www.archive12.com/](https://www.archive12.com/ "https://www.archive12.com/")
+[www.archive12.com/](https://www.archive12.com/ "archive12")
 
 ***
 
