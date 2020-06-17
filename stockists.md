@@ -12,7 +12,7 @@ link-3: ''
 ---
 ### ENGLAND
 
-#### Bon Bridé HQ
+## Bon Bridé HQ
 
 8 Downs Bridge Road  
 London,  
@@ -20,7 +20,7 @@ BR3 5HX
 
 \-
 
-#### The Pantry Bridalwear
+## The Pantry Bridalwear
 
 20 High Street  
 Saffron Walden  
@@ -32,7 +32,7 @@ CB10 1AX
 
 ### AUSTRALIA
 
-#### Your Art Bridal
+## Your Art Bridal
 
 5/308  
 Lawrence Hardgrave Drive  
@@ -45,7 +45,7 @@ New South Wales
 
 ### BELGIUM
 
-#### The Ivory Club
+## The Ivory Club
 
 Mechelsesteenweg 17  
 2000 Antwerpen  
@@ -55,7 +55,7 @@ Belgium
 
 \-
 
-#### MELODY NELSON
+## MELODY NELSON
 
 Pl. des Jardins de Baseilles 25
 5101 Namur
@@ -67,7 +67,7 @@ Belgium
 
 ### GERMANY
 
-#### ANWE Bridal
+## ANWE Bridal
 
 Laufgraben  
 1820146  
@@ -77,7 +77,7 @@ Hamburg
 
 \-
 
-#### All The Feels
+## All The Feels
 
 Mühlgasse  
 765183  
@@ -87,7 +87,7 @@ Wiesbaden
 
 \-
 
-#### WHITE CONCEPTS
+## WHITE CONCEPTS
 
 Neupforte 11
 52062 Aachen
@@ -100,7 +100,7 @@ Germany
 
 ### IRELAND
 
-#### Archive 12
+## Archive 12
 
 49 Cregagh Road,  
 Belfast,  
@@ -113,10 +113,10 @@ BT6 8PX
 
 ### NETHERLANDS
 
-#### Wild at Heart Bridal
+## Wild at Heart Bridal
 
 Sint Annastraat 282  
 6525 HC Nijmegen  
 Netherlands
 
-[www.wildatheartbridal.nl/nl](http://www.wildatheartbridal.nl/nl "Wild at heart")
+[www.wildatheartbridal.nl](http://www.wildatheartbridal.nl "Wild at heart")
