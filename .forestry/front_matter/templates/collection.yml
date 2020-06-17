@@ -7,245 +7,284 @@ fields:
   name: layout
   description: default, home, post & page (must be lowercase)
   default: collection
+
 - type: file
   name: image-1
   label: Image 1
-  description: The first image in the collections section
-- type: text
-  name: caption-1
-  label: Caption 1
-  default: bb:01
+  description: Image 1
+
 - type: file
   name: image-2
   label: Image 2
-- type: text
-  name: caption-2
-  label: Caption 2
-  default: bb:02
+  description: Image 2
+  
 - type: file
-  label: Image 3
   name: image-3
-- type: text
-  name: caption-3
-  label: Caption 3
-  default: bb:03
+  label: Image 3
+  description: Image 3
+  
 - type: file
   name: image-4
   label: Image 4
-- type: text
-  name: caption-4
-  label: Caption 4
-  default: bb:04
+  description: Image 4
+  
 - type: file
   name: image-5
   label: Image 5
-- type: text
-  name: caption-5
-  label: Caption 5
-  default: bb:05
+  description: Image 5
+  
 - type: file
   name: image-6
   label: Image 6
-- type: text
-  name: caption-6
-  label: Caption 6
-  default: bb:06
+  description: Image 6
+  
 - type: file
   name: image-7
   label: Image 7
-- type: text
-  name: caption-7
-  label: Caption 7
+  description: Image 7
+  
 - type: file
   name: image-8
   label: Image 8
-- type: text
-  label: Caption 8
-  name: caption-8
-  default: bb:08
+  description: Image 8
+  
 - type: file
   name: image-9
   label: Image 9
-- type: text
-  name: caption-9
-  label: Caption 9
+  description: Image 9
+  
 - type: file
   name: image-10
   label: Image 10
+  description: Image 10
+  
+- type: file
+  name: image-11
+  label: Image 11
+  description: Image 11
+  
+- type: file
+  name: image-12
+  label: Image 12
+  description: Image 12
+  
+- type: file
+  name: image-13
+  label: Image 13
+  description: Image 13
+  
+- type: file
+  name: image-14
+  label: Image 14
+  description: Image 14
+  
+
+- type: text
+  name: caption-1
+  label: Caption 1
+  default: Pearl trim . Roll neck . Calf length . Textured silk
+
+- type: text
+  name: caption-2
+  label: Caption 2
+  default: Cap sleeve . Round neck . Pockets . Backless
+
+- type: text
+  name: caption-3
+  label: Caption 3
+  default: Belted with gold d-ring . Button through . Pockets . Cuff detail
+
+- type: text
+  name: caption-4
+  label: Caption 4
+  default: Full skirt . Sheer sleeve & waist detail . Pockets
+
+- type: text
+  name: caption-5
+  label: Caption 5
+  default: Off shoulder . Belted . Puddle train . Low back . Side split . Heavy crepe
+
+- type: text
+  name: caption-6
+  label: Caption 6
+  default: Roll neck . 3/4 sleeve . Cut out waist . Backless . Gros grain trim . Side split
+
+- type: text
+  name: caption-7
+  label: Caption 7
+  default: Raw frayed hem and cuff . Stand collar . Cut out waist . Backless
+
+- type: text
+  name: caption-8
+  label: Caption 8
+  default: Skinny strap . Bagged out waist . Low v neck line . Split
+
+- type: text
+  name: caption-9
+  label: Caption 9
+  default: Low cowl back . Long sleeve . Loose fit . Round neck
+
 - type: text
   name: caption-10
   label: Caption 10
-- name: image-11
-  type: file
-  config:
-    maxSize: 64
-  label: Image 11
-- name: caption-11
-  type: text
-  config:
-    required: false
-  label: Caption 11
-- name: image-12
-  type: file
-  config:
-    maxSize: 64
-  label: Image 12
-- name: caption-12
-  type: text
-  config:
-    required: false
-  label: Caption 12
-- name: image-13
-  type: file
-  config:
-    maxSize: 64
-  label: Image 13
-- name: caption-13
-  type: text
-  config:
-    required: false
-  label: Caption 13
-- name: image-14
-  type: file
-  config:
-    maxSize: 64
-  label: Image 14
-- name: caption-14
-  type: text
-  config:
-    required: false
-  label: Caption 14
+  default: Round neck . Long slim sleeve . Cut out side . V shaped back . Side split with zip
+
 - type: text
-  name: cat-number-1
+  name: caption-11
+  label: Caption 11
+  default: Deep V back . Textured fabric . Frayed edges . Slim slv. Tailored
+
+- type: text
+  name: caption-12
+  label: Caption 12
+  default: Halter neck . Pearl trim . Zip at split . Backless 
+
+- type: text
+  name: caption-13
+  label: Caption 13
+  default: Volume slv . Open back . Button through . V neck 
+
+- type: text
+  name: caption-14
+  label: Caption 14
+  default: Coat/Dress . Belted . Cuff detail . Raw hem . Pockets 
+
+- name: cat-number-1
   label: Cat. number 1
   default: bb:01
-  hidden: true
+
 - type: text
   label: Cat. number 2
   name: cat-number-2
   default: bb:02
-  hidden: true
+
 - type: text
   name: cat-number-3
   label: Cat. number 3
   default: bb:03
-  hidden: true
+
 - type: text
   name: cat-number-4
   label: Cat. number 4
   default: bb:04
-  hidden: true
 - type: text
   name: cat-number-5
   label: Cat. number 5
   default: bb:05
-  hidden: true
+
 - type: text
   name: cat-number-6
   label: Cat. number 6
   default: bb:06
-  hidden: true
+
 - type: text
   name: cat-number-7
   label: Cat. number 7
   default: bb:07
-  hidden: true
+
 - type: text
   name: cat-number-8
   label: Cat. number 8
   default: bb:08
-  hidden: true
+
 - type: text
   name: cat-number-9
   label: Cat. number 9
   default: bb:09
-  hidden: false
+
 - type: text
   name: cat-number-10
   label: Cat. number 10
   default: bb:10
-  hidden: false
-  config:
-    required: false
-- name: cat__number_11
-  type: text
-  config:
-    required: false
+
+- type: text
+  name: cat-number-11
   label: Cat. number 11
-- name: cat-number-12
-  type: text
-  config:
-    required: false
+  default: bb:11
+
+- type: text
+  name: cat-number-12
   label: Cat. number 12
-- name: cat-number-13
-  type: text
-  config:
-    required: false
+  default: bb:12
+
+- type: text
+  name: cat-number-13
   label: Cat. number 13
-- name: cat-number-14
-  type: text
-  config:
-    required: false
+  default: bb:13
+
+- type: text
+  name: cat-number-14
   label: Cat. number 14
+  default: bb:14
+
 - type: text
   name: collection-url-1
   label: Collection url 1
+
 - type: text
   name: collection-url-2
   label: Collection url 2
+
 - type: text
   name: collection-url-3
   label: Collection url 3
+
 - type: text
   name: collection-url-4
   label: Collection url 4
+
 - type: text
   name: collection-url-5
   label: Collection url 5
+
 - type: text
   name: collection-url-6
   label: Collection url 6
+
 - type: text
   name: collection-url-7
   label: Collection url 7
+
 - type: text
   name: collection-url-8
   label: Collection url 8
+
 - type: text
   name: collection-url-9
   label: Collection url 9
+
 - type: text
   name: collection-url-10
   label: Collection url 10
+
 - name: collection-url-11
   type: text
-  config:
-    required: false
   label: Collection url 11
+
 - name: collection-url-12
   type: text
-  config:
-    required: false
   label: Collection url 12
+
 - name: collection-url-13
   type: text
-  config:
-    required: false
   label: Collection url 13
+
 - name: collection-url-14
   type: text
-  config:
-    required: false
   label: Collection url 14
+
 - type: file
   name: hero-image
   label: Hero image
+
 - type: textarea
   name: quote
   label: Quote
+
 - type: text
   name: author
   label: Author
+
 - type: text
   name: title
   label: Title
