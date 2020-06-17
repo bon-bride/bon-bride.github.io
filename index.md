@@ -23,9 +23,9 @@ caption-14: Coat/Dress . Belted . Cuff detail . Raw hem . Pockets
 cat-number-1: bb:01
 cat-number-2: bb:02
 cat-number-3: bb:03
-cat-number-4: bb:o4
-cat-number-5: bb:o5
-cat-number-6: bb:o6
+cat-number-4: bb:04
+cat-number-5: bb:05
+cat-number-6: bb:06
 cat-number-7: bb:07
 cat-number-8: bb:08
 cat-number-9: bb:09
