@@ -18,6 +18,8 @@ link-3: ''
 London,  
 BR3 5HX
 
+\-
+
 #### The Pantry Bridalwear
 
 20 High Street  
@@ -25,7 +27,6 @@ Saffron Walden
 CB10 1AX
 
 [www.thepantrybridalwear.com](http://www.thepantrybridalwear.com/ "The Pantry Bridalwear")
-
 
 ***
 
@@ -52,15 +53,15 @@ Belgium
 
 [www.theivoryclub.be](http://www.theivoryclub.be/ "The Ivory Club")
 
-#### MELODY NELSON 
+\-
+
+#### MELODY NELSON
 
 Pl. des Jardins de Baseilles 25
 5101 Namur
 Belgium
 
 [https://www.melodynelson.be/en/](https://www.melodynelson.be/en/ "Meldoy Nelson")
-
-https://www.melodynelson.be/en/
 
 ***
 
@@ -72,8 +73,9 @@ Laufgraben
 1820146  
 Hamburg
 
-[www.anwe-bridal.com]( https://www.anwe-bridal.com/ "ANWE Bridal")
+[www.anwe-bridal.com](https://www.anwe-bridal.com/ "ANWE Bridal")
 
+\-
 
 #### All The Feels
 
@@ -83,16 +85,16 @@ Wiesbaden
 
 [www.allthefeels.de](https://allthefeels.de/en/all-the-feels-2/ "All the feels")
 
+\-
 
-#### WHITE CONCEPTS 
+#### WHITE CONCEPTS
 
 Neupforte 11
 52062 Aachen
 Germany
-+49 241 99032187
+\+49 241 99032187
 
 [www.white-concepts.de](https://white-concepts.de/ "White Concepts")
-
 
 ***
 
